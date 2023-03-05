@@ -33,12 +33,12 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
    * A legend was created to provide context of the map based on depth
 
 ### Satellite Image
-![Satellite Image](Images/Satellite.PNG)
+![Satellite Image](Images/sattelite.png)
 
 ### Grayscale Image
-![Grayscale Image](Images/GrayscalePopup.PNG)
+![Grayscale Image](Images/grayscale.png)
 
 ### Outdoors Image
-![Outdoors Image](Images/OutdoorsTectonic.PNG)
+![Outdoors Image](Images/outdoors.png)
 
 
